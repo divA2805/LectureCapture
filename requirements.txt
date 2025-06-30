@@ -2,6 +2,6 @@ opencv-python
 pytesseract
 Pillow
 yt-dlp
-scikit-image  # Correct package name
+scikit-image  
 tk
 reportlab
